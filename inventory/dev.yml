@@ -1,0 +1,5 @@
+[lb]
+... ansible_ssh_user="ec2-user"
+
+[webserver]
+... ansible_ssh_user="ubuntu"
